@@ -36,5 +36,4 @@
 > *"Architecting extreme line-rate infrastructure, low-latency audio engines, and full-stack software solutions."*
 
 - 🎛️ **Owner & Lead Developer:** [SIBSIB KARAOKE](https://sibsib-karaoke.com) — High-end audio mixing, 48-channel separation, and custom hardware licensing.
-- 🌐 **Network Engineering:** 50 Gbps Multi-WAN routing, BGP Multi-homing, and Certified Fiber Optic Lab infrastructure.
 - 💻 **Core Tech Stack:** C# .NET desktop application architecture, managed BASS audio DSP, and enterprise network automation.
