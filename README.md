@@ -4,9 +4,6 @@
     <a href="https://github.com/kuromineko">
       <img src="https://img.shields.io/badge/GITHUB-KuromiNeko-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://sibsib-karaoke.com">
-      <img src="https://img.shields.io/badge/PROJECT-SIBSIB%20KARAOKE-ff4757?style=for-the-badge&logo=soundcharts&logoColor=white" />
-    </a>
     <img src="https://img.shields.io/badge/NETWORK-50G%20CORE%20LAB-2ed573?style=for-the-badge&logo=mikrotik&logoColor=white" />
   </p>
 
