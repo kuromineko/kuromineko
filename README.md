@@ -25,7 +25,7 @@
                       Languages  : C# (.NET 9), PHP, JavaScript, SQL, Bash
                       Frameworks : WPF, WinForms, RESTful API, Tailwind CSS
                       AI & Tools : Gemini API, ChatGPT, Claude
-                      Infra & HW : 5x 10G Fiber (50G Aggregated), MikroTik, Fujikura 70R, Fluke
+                      Infra & HW : MikroTik
                       Status     : 🟢 [ONLINE] Pushing Packets & Tuning Audio DSP
 
                       ████████████████
